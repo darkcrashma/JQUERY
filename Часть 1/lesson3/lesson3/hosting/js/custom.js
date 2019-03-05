@@ -136,3 +136,17 @@ $('.nav__item').on('click', function (e) {
 
 
 
+//Делаем плавный фикс топ меню
+
+var headerH = $("#js-header").height();
+var navH = $('#js-nav-box').innerHeight();
+$(document).on("scroll", function () {
+    var docScroll = $(this).scrollTop();
+    if (docScroll > headerH) {
+        $("#js-nav-box").addClass('nav-fixed');
+        $('#js-header').css("padding-top",navH)
+    } else {
+        $("#js-nav-box").removeClass('nav-fixed');
+        $('#js-header').css("padding-top",0)
+    }
+});
