@@ -124,7 +124,7 @@
 // $('.container').not(inputMassive);
 
 
-// Делаем табы с подчеркиванием на навигационном меню
+// Задание 2.3 Делаем табы с подчеркиванием на навигационном меню
 
 $('.nav__item').on('click', function (e) {
     e.preventDefault();
@@ -136,7 +136,7 @@ $('.nav__item').on('click', function (e) {
 
 
 
-//Делаем плавный фикс топ меню
+//Задание 2.4 Делаем плавный фикс топ меню
 
 var headerH = $("#js-header").height();
 var navH = $('#js-nav-box').innerHeight();
@@ -151,7 +151,7 @@ $(document).on("scroll", function () {
     }
 });
 
-//Делаем модальное окно
+//Задание 2.5 Делаем модальное окно
 
 var showMod = $('#js-login-btn'),
     windowMod = $('.js-modal'),
@@ -200,4 +200,31 @@ function validate() {
         return false;
 }}
 
+//Задание 2.7 Изменить текст в заголовке сайта с помощью jQuery.
+// $('title').text('ЗАГОЛОВОК ПОКРУЧЕ');
 
+
+//Задание 2.8 Вывести в console.log все четные и нечетные элементы главного меню
+
+// var menuElems = $('.nav a:even');
+// menuElems.css('border', "3px dotted lightgreen");
+// console.log(menuElems);
+//
+// var menuElems = $('.nav a:odd');
+// menuElems.css('border', "3px dotted yellow");
+// console.log(menuElems);
+
+
+
+//Задание 2.9 Выбрать в футере один из списков. Вернуть все родительские и дочерние элементы
+// var footerLists = $('.footer ul'); ----- НЕ ДОДЕЛАНО
+// console.log(footerLists);
+
+
+
+//Задание 2.10 Средствами jquery вырезать блок с картой, перетащить перед блоком testimonials
+$( "#js-test" ).before($("#js-contacts"));
+
+//Задание 2.11 Удалить в футере блок с телефоном и копирайтом.
+$(".footer-phone-box").remove();
+$(".copyright").remove();
