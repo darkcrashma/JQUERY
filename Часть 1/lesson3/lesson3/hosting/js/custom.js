@@ -170,3 +170,34 @@ $('#js-overlay-mod, .js-modal-close').on('click', function (e) {
     maskMod.fadeOut();
     $('body').removeClass('open-mod');
 });
+
+
+
+//Задание 2.6 валидация url
+
+
+$('.btn_search').on('click', function (e) {
+    e.preventDefault();
+    validate();
+});
+
+function validate() {
+    var url = $('.search-input').val();
+    var pattern = /(ftp|http|https):\/\/(\w+:{0,1}\w*@)?(\S+)(:[0-9]+)?(\/|\/([\w#!:.?+=&%@!\-\/]))?/;
+    if (pattern.test(url)) {
+        $('.search-form__decorate').addClass("search-form__decorate--active");
+        $('.search-form__decorate').html("<img src='i/validate/true.jpg'><span class=\"search-form__close\"></span>");
+        $('.search-form__close').on('click', function () {
+            $('.search-form__decorate').removeClass("search-form__decorate--active");
+        });
+        return true;
+    } else {
+        $('.search-form__decorate').addClass("search-form__decorate--active");
+        $('.search-form__decorate').html("<img src='i/validate/false.png'><span class=\"search-form__close\"></span>");
+        $('.search-form__close').on('click', function () {
+            $('.search-form__decorate').removeClass("search-form__decorate--active");
+        });
+        return false;
+}}
+
+
