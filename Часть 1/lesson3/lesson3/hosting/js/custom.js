@@ -150,3 +150,23 @@ $(document).on("scroll", function () {
         $('#js-header').css("padding-top",0)
     }
 });
+
+//Делаем модальное окно
+
+var showMod = $('#js-login-btn'),
+    windowMod = $('.js-modal'),
+    maskMod = $('#js-overlay-mod');
+
+showMod.on('click', function (e) {
+    e.preventDefault();
+    windowMod.fadeIn();
+    maskMod.fadeIn();
+    $('body').addClass('open-mod');
+});
+
+$('#js-overlay-mod, .js-modal-close').on('click', function (e) {
+    e.preventDefault();
+    windowMod.fadeOut();
+    maskMod.fadeOut();
+    $('body').removeClass('open-mod');
+});

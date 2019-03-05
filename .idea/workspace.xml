@@ -17,16 +17,16 @@
     <session id="-202764751">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="7" />
+          <entry key="project.closed" value="8" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.1" value="3" />
+          <entry key="project.open.time.1" value="4" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.22" value="1" />
-          <entry key="project.opened" value="11" />
+          <entry key="project.opened" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -35,6 +35,7 @@
           <entry key="html" value="4" />
           <entry key="js" value="4" />
           <entry key="less" value="4" />
+          <entry key="rnc" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -43,21 +44,22 @@
           <entry key="HTML" value="4" />
           <entry key="JavaScript" value="4" />
           <entry key="Less" value="4" />
+          <entry key="RNG Compact" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="549" />
-          <entry key="html" value="215" />
-          <entry key="js" value="3421" />
+          <entry key="css" value="746" />
+          <entry key="html" value="576" />
+          <entry key="js" value="3841" />
           <entry key="less" value="90" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="549" />
-          <entry key="HTML" value="215" />
-          <entry key="JavaScript" value="3421" />
+          <entry key="CSS" value="746" />
+          <entry key="HTML" value="576" />
+          <entry key="JavaScript" value="3841" />
           <entry key="Less" value="90" />
         </counts>
       </usages-collector>
@@ -68,8 +70,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="32" column="45" lean-forward="true" selection-start-line="32" selection-start-column="35" selection-end-line="32" selection-end-column="45" />
+            <state relative-caret-position="541">
+              <caret line="361" column="35" lean-forward="true" selection-start-line="361" selection-start-column="35" selection-end-line="361" selection-end-column="50" />
             </state>
           </provider>
         </entry>
@@ -77,8 +79,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+            <state relative-caret-position="125">
+              <caret line="118" column="18" selection-start-line="118" selection-start-column="18" selection-end-line="118" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -86,11 +88,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/js/custom.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="542">
-              <caret line="145" column="55" lean-forward="true" selection-start-line="145" selection-start-column="55" selection-end-line="145" selection-end-column="55" />
+            <state relative-caret-position="499">
+              <caret line="170" column="38" lean-forward="true" selection-start-line="170" selection-start-column="38" selection-end-line="170" selection-end-column="38" />
               <folding>
-                <marker date="1551753175316" expanded="true" signature="221:380" ph="..." />
-                <marker date="1551753175316" expanded="true" signature="1047:1109" ph="..." />
+                <marker date="1551761199355" expanded="true" signature="221:380" ph="..." />
+                <marker date="1551761199355" expanded="true" signature="1047:1109" ph="..." />
               </folding>
             </state>
           </provider>
@@ -114,9 +116,9 @@
         <option value="$PROJECT_DIR$/Мой сайт/js/main.js" />
         <option value="$PROJECT_DIR$/Мой сайт/index.html" />
         <option value="$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/css/style.less" />
+        <option value="$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/js/custom.js" />
         <option value="$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/index.html" />
         <option value="$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/css/style.css" />
-        <option value="$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/js/custom.js" />
       </list>
     </option>
   </component>
@@ -137,7 +139,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -194,6 +195,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -235,18 +237,19 @@
       <workItem from="1551672497277" duration="3592000" />
       <workItem from="1551687436363" duration="5013000" />
       <workItem from="1551749139114" duration="5000" />
-      <workItem from="1551750137203" duration="3034000" />
+      <workItem from="1551750137203" duration="5900000" />
+      <workItem from="1551759716532" duration="2677000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39154000" />
+    <option name="totallyTimeSpent" value="44697000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1020" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18031785" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18215159" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -259,7 +262,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32912844" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.17545871" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32912844" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -310,27 +313,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/web-forms.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="607" column="22" selection-start-line="607" selection-start-column="22" selection-end-line="607" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="32" column="45" lean-forward="true" selection-start-line="32" selection-start-column="35" selection-end-line="32" selection-end-column="45" />
+        <state relative-caret-position="541">
+          <caret line="361" column="35" lean-forward="true" selection-start-line="361" selection-start-column="35" selection-end-line="361" selection-end-column="50" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+        <state relative-caret-position="125">
+          <caret line="118" column="18" selection-start-line="118" selection-start-column="18" selection-end-line="118" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/js/custom.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="542">
-          <caret line="145" column="55" lean-forward="true" selection-start-line="145" selection-start-column="55" selection-end-line="145" selection-end-column="55" />
+        <state relative-caret-position="499">
+          <caret line="170" column="38" lean-forward="true" selection-start-line="170" selection-start-column="38" selection-end-line="170" selection-end-column="38" />
           <folding>
-            <marker date="1551753175316" expanded="true" signature="221:380" ph="..." />
-            <marker date="1551753175316" expanded="true" signature="1047:1109" ph="..." />
+            <marker date="1551761199355" expanded="true" signature="221:380" ph="..." />
+            <marker date="1551761199355" expanded="true" signature="1047:1109" ph="..." />
           </folding>
         </state>
       </provider>

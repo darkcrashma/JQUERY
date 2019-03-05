@@ -1,4 +1,16 @@
-.text-center{text-align:center}.text-red{color:#e84c3d}.pull-left{float:left}.pull-right{float:right}.text-upper{text-transform:uppercase}.text-small{font-size:12px}.link{color:#fff;text-decoration:underline}.link_red{color:#e84c3d}.link:hover{text-decoration:none}body{font-family:'PT Sans',sans-serif;font-size:16px;line-height:1.4;margin:0;min-width:320px}*,*:before,:after{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}a:focus{outline:none;text-decoration:none}p{margin:0 0 10px}h1,h2,h3,h4,h5,h6{margin:0}input,button,textarea{font-family:'PT Sans',sans-serif;font-size:16px}ul,ol{list-style:none;margin:0;padding:0}address{font-style:normal}.container{width:960px;margin:0 auto}.container:before,.container:after{content:"";display:table;width:100%}.container:after{clear:both}.page-block{padding:40px 0}.header{background:#2c3039 url("../i/header.jpg") center top no-repeat}
+.text-center{text-align:center}.text-red{color:#e84c3d}.pull-left{float:left}.pull-right{float:right}.text-upper{text-transform:uppercase}.text-small{font-size:12px}.link{color:#fff;text-decoration:underline}.link_red{color:#e84c3d}.link:hover{text-decoration:none}
+body{
+    font-family:'PT Sans',sans-serif;
+    font-size:16px;
+    line-height:1.4;
+    margin:0;
+    min-width:320px
+}
+body.open-mod {
+    overflow-y: hidden;
+    padding-right: 17px;
+}
+*,*:before,:after{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}a:focus{outline:none;text-decoration:none}p{margin:0 0 10px}h1,h2,h3,h4,h5,h6{margin:0}input,button,textarea{font-family:'PT Sans',sans-serif;font-size:16px}ul,ol{list-style:none;margin:0;padding:0}address{font-style:normal}.container{width:960px;margin:0 auto}.container:before,.container:after{content:"";display:table;width:100%}.container:after{clear:both}.page-block{padding:40px 0}.header{background:#2c3039 url("../i/header.jpg") center top no-repeat}
 
 .nav-container{
     border-bottom:1px solid #424348;
@@ -97,4 +109,50 @@
 }
 .toTheTop:hover {
     background-color: #943B48;
+}
+
+/* 14. Modals
+===========================*/
+
+.overlay {
+    width: 100vw;
+    height: 100vh;
+    background: rgba(0, 0, 0, .5);
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 999;
+    display: none;
+}
+
+.modal {
+    width: 300px;
+    padding: 20px;
+    background: #ffffff;
+    text-align: center;
+    position: fixed;
+    top: 100px;
+    left: 50%;
+    z-index: 1000;
+    margin-left: -150px;
+    display: none;
+}
+.modal-title {
+    margin-bottom: 15px;
+}
+#login-form__name,
+#login-form__surname,
+#login-form__mail {
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 15px;
+    padding: 5px;
+    width: 100% ;
+}
+.login-form__label {
+    display: block;
+    margin-bottom: 5px;
+}
+.login-form__btn {
+    margin-bottom: 15px;
 }

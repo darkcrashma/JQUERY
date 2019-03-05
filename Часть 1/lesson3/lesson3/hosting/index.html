@@ -46,7 +46,7 @@
                 <a id="js-nav-test" href="#" class="nav__item">testimonials</a>
                 <a id="js-nav-contacts" href="#" class="nav__item">contacts</a>
             </nav>
-            <a href="#" class="btn btn_login pull-right">login</a>
+            <a href="#" id="js-login-btn" class="btn btn_login pull-right">login</a>
         </div><!-- /.container -->
     </div><!-- /.nav-container -->
 
@@ -348,7 +348,21 @@
     </div><!-- /.container -->
 </div><!-- /.subscribe-social -->
 
-
+<!-- Modals -->
+<div class="overlay" id="js-overlay-mod"></div>
+<div class="modal js-modal" id="js-login-modal">
+    <h2 class="modal-title">Окно авторизации</h2>
+    <form action="#" enctype="text/plain" class="login-form">
+        <label class='login-form__label' for="login-form__name">Ваше имя</label>
+        <input id='login-form__name' type="text">
+        <label class='login-form__label' for="login-form__surname">Ваша фамилия</label>
+        <input id='login-form__surname' type="text">
+        <label class='login-form__label' for="login-form__mail">Ваш e-mail</label>
+        <input id='login-form__mail' type="email">
+        <button class="btn btn_red login-form__btn">Войти</button>
+    </form>
+    <a href="#" class="btn btn_red js-modal-close">Закрыть</a>
+</div>
 
 
 
