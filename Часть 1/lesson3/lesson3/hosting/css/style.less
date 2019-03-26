@@ -867,4 +867,27 @@ address {
 }
 
 
+.faq {
+    width: 600px;
+    margin: 30px auto;
+}
 
+.faq-title {
+    .transition(background-color .2s);
+    display: block;
+    padding: 5px 10px;
+
+    color: #000;
+    text-decoration: none;
+    background-color: @grey_light;
+    border-bottom: 1px solid darken(@grey_light, 10%);
+
+    &:hover {
+        background-color: darken(@grey_light, 5%);
+    }
+}
+
+.faq-content {
+    padding: 5px 10px;
+    font-size: @small;
+}

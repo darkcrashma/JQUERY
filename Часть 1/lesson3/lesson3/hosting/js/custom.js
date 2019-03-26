@@ -217,14 +217,31 @@ function validate() {
 
 
 //Задание 2.9 Выбрать в футере один из списков. Вернуть все родительские и дочерние элементы
-// var footerLists = $('.footer ul'); ----- НЕ ДОДЕЛАНО
-// console.log(footerLists);
+// var footerLists = $('.footer-nav')[0];
+// console.log($(footerLists).find('*'));
+// console.log($(footerLists).parents());
+//
+//
+//
+// //Задание 2.10 Средствами jquery вырезать блок с картой, перетащить перед блоком testimonials
+// $( "#js-test" ).before($("#js-contacts"));
+//
+// //Задание 2.11 Удалить в футере блок с телефоном и копирайтом.
+// $(".footer-phone-box").remove();
+// $(".copyright").remove();
 
 
 
-//Задание 2.10 Средствами jquery вырезать блок с картой, перетащить перед блоком testimonials
-$( "#js-test" ).before($("#js-contacts"));
-
-//Задание 2.11 Удалить в футере блок с телефоном и копирайтом.
-$(".footer-phone-box").remove();
-$(".copyright").remove();
+/*--------------------------------Задание 3------------------------------------------------*/
+//Задание 3.1 Сделать аккордеоны в блоке FAQ
+$('.js-faq-title').on('click',function (e) {
+    e.preventDefault();
+    var $this = $(this);
+    if(!$this.hasClass('js-faq-title--active')) {
+        $('.js-faq-title').removeClass('js-faq-title--active');
+        $('.js-faq-content').slideUp();
+    }
+    $this.toggleClass('js-faq-title--active');
+    $this.next().slideToggle();
+});
+//Задание 3.3 Подключить и настроить google-карту. Кастомизировать метку, настроить попап с подсказкой.
