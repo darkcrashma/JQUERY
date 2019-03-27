@@ -2,10 +2,279 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e20972a-d482-435e-b1cf-76de747e2ca6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Часть 1/css/animate.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть 1/css/polaris/polaris.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть 1/css/polaris/polaris.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть 1/css/polaris/polaris@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть 1/js/Validation/jquery.inputmask.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть 1/js/Validation/jquery.validate.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть 1/js/Validation/valid.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть 1/js/counter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть 1/js/icheck.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть 1/js/typed.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть 1/js/waypoints.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть 1/js/wow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/css/style.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/.github/ISSUE_TEMPLATE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/.github/PULL_REQUEST_TEMPLATE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/BACKERS.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/dist/fullpage.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/dist/fullpage.extensions.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/dist/fullpage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/dist/fullpage.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/dist/fullpage.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/dist/fullpage.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/dist/fullpage.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/examples/active-slide.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/examples/auto-height.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/examples/autoplay-video-and-audio.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/examples/background-video.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/examples/backgrounds-fixed.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/examples/backgrounds.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/examples/callbacks-v2-compatible.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/examples/callbacks-v3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/examples/continuous-horizontal.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/examples/continuous-vertical.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/examples/css3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/examples/drag-and-move.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/examples/easing.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/examples/examples.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/examples/examples.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/examples/fading-effect.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/examples/fixed-headers.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/examples/gradient-backgrounds.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/examples/imgs/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/examples/imgs/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/examples/imgs/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/examples/imgs/bg1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/examples/imgs/bg2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/examples/imgs/bg3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/examples/imgs/bg4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/examples/imgs/bg5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/examples/imgs/compatible.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/examples/imgs/copyright.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/examples/imgs/en-language-inactive.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/examples/imgs/en-language.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/examples/imgs/es-language-inactive.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/examples/imgs/es-language.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/examples/imgs/example.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/examples/imgs/example2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/examples/imgs/flowers.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/examples/imgs/flowers.webm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/examples/imgs/fullPage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/examples/imgs/horse.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/examples/imgs/horse.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/examples/imgs/intro.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/examples/imgs/iphone-blue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/examples/imgs/iphone-green.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/examples/imgs/iphone-red.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/examples/imgs/iphone-two.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/examples/imgs/iphone-yellow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/examples/imgs/iphone1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/examples/imgs/iphone2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/examples/imgs/iphone3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/examples/imgs/iphone4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/examples/imgs/slider.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/examples/imgs/tablets.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/examples/imgs/used-by-fullpage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/examples/interlocked-slides.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/examples/jquery-adapter.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/examples/lazy-load.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/examples/looping.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/examples/methods.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/examples/module_loaders/browserify-example/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/examples/module_loaders/browserify-example/dist/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/examples/module_loaders/browserify-example/dist/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/examples/module_loaders/browserify-example/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/examples/module_loaders/browserify-example/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/examples/module_loaders/requirejs-example/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/examples/module_loaders/requirejs-example/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/examples/module_loaders/requirejs-example/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/examples/module_loaders/requirejs-example/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/examples/module_loaders/requirejs-example/src/require.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/examples/module_loaders/webpack-example/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/examples/module_loaders/webpack-example/dist/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/examples/module_loaders/webpack-example/dist/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/examples/module_loaders/webpack-example/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/examples/module_loaders/webpack-example/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/examples/module_loaders/webpack-example/webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/examples/navigation-horizontal.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/examples/navigation-tooltips.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/examples/navigation-vertical.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/examples/no-anchor.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/examples/normal-scroll.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/examples/normalScrollElements.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/examples/offset-sections.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/examples/one-section.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/examples/parallax.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/examples/reset-sliders.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/examples/responsive-auto-height.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/examples/responsive-height.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/examples/responsive-slides.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/examples/responsive-width.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/examples/scroll-horizontally.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/examples/scrollBar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/examples/scrollOverflow-old.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/examples/scrollOverflow-reset.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/examples/scrollOverflow.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/examples/scrolling-speed.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/examples/simple.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/examples/trigger-animations.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/examples/vue-fullpage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/gulpfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/lang/chinese/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/lang/chinese/how-to-activate-fullpage-extension.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/lang/chinese/parallax-extensionmd.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/lang/korean/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/lang/korean/how-to-activate-fullpage-extension.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/lang/korean/parallax-extension.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/lang/russian/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/lang/russian/how-to-activate-fullpage-extension.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/lang/russian/parallax-extension.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/lang/spanish/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/lang/spanish/how-to-activate-fullpage-extension.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/lang/spanish/parallax-extension.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/src/fullpage.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/src/fullpage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/tests/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/tests/unit/arrows.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/tests/unit/bigSectionsDestination.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/tests/unit/callbacks.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/tests/unit/callbacksV3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/tests/unit/continuousVertical.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/tests/unit/destroy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/tests/unit/displayWarnings.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/tests/unit/easingcss3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/tests/unit/fitToSection.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/tests/unit/fixedElements.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/tests/unit/keyboardScrolling.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/tests/unit/lazyload.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/tests/unit/lockAnchors.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/tests/unit/loopBottom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/tests/unit/loopTop.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/tests/unit/menu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/tests/unit/moveSectionDown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/tests/unit/moveSectionUp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/tests/unit/moveSlideLeft.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/tests/unit/moveSlideRight.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/tests/unit/moveTo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/tests/unit/nav.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/tests/unit/normalScrollElements.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/tests/unit/paddings.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/tests/unit/recordHistory.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/tests/unit/responsiveHeight.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/tests/unit/responsiveWidth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/tests/unit/scrollBar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/tests/unit/scrollingSpeed.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/tests/unit/sectionsColor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/tests/unit/selectors.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/tests/unit/setAllowScrolling.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/tests/unit/setAutoScrolling.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/tests/unit/silentMoveTo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/tests/unit/slidesNavigation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/tests/unit/verticalCentered.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/tests/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/vendors/easings.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/vendors/easings.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/vendors/easings.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/vendors/scrolloverflow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/vendors/scrolloverflow.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/vendors/scrolloverflow.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/js/custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Сайдбар/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Сайдбар/css/style.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Сайдбар/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Сайдбар/js/custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Сайдбар/js/jquery-3.3.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Сайдбар/js/sticky.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Стилизация скрола/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Стилизация скрола/css/style.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Стилизация скрола/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Стилизация скрола/jquery.nicescroll/.bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Стилизация скрола/jquery.nicescroll/MIT.LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Стилизация скрола/jquery.nicescroll/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Стилизация скрола/jquery.nicescroll/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Стилизация скрола/jquery.nicescroll/changelog_3.6.8.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Стилизация скрола/jquery.nicescroll/dist/jquery.nicescroll.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Стилизация скрола/jquery.nicescroll/dist/zoomico.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Стилизация скрола/jquery.nicescroll/jquery.nicescroll.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Стилизация скрола/jquery.nicescroll/zoomico.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Стилизация скрола/js/custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Стилизация скрола/js/jquery-3.3.1.min.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/js/custom.js" beforeDir="false" afterPath="$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/js/custom.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Мой сайт/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Мой сайт/js/jquery-3.3.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/js/jquery-3.3.1.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Мой сайт/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/css/_helpers.less" beforeDir="false" afterPath="$PROJECT_DIR$/Часть 1/css/_helpers.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/css/_mixins.less" beforeDir="false" afterPath="$PROJECT_DIR$/Часть 1/css/_mixins.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/css/_vars.less" beforeDir="false" afterPath="$PROJECT_DIR$/Часть 1/css/_vars.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/css/animate.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Часть 1/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/css/style.less" beforeDir="false" afterPath="$PROJECT_DIR$/Часть 1/css/style.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/i/benefits-sprite.png" beforeDir="false" afterPath="$PROJECT_DIR$/Часть 1/i/benefits-sprite.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/i/browse-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/Часть 1/i/browse-icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/i/favicons/android-chrome-144x144.png" beforeDir="false" afterPath="$PROJECT_DIR$/Часть 1/i/favicons/android-chrome-144x144.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/i/favicons/android-chrome-192x192.png" beforeDir="false" afterPath="$PROJECT_DIR$/Часть 1/i/favicons/android-chrome-192x192.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/i/favicons/android-chrome-36x36.png" beforeDir="false" afterPath="$PROJECT_DIR$/Часть 1/i/favicons/android-chrome-36x36.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/i/favicons/android-chrome-48x48.png" beforeDir="false" afterPath="$PROJECT_DIR$/Часть 1/i/favicons/android-chrome-48x48.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/i/favicons/android-chrome-72x72.png" beforeDir="false" afterPath="$PROJECT_DIR$/Часть 1/i/favicons/android-chrome-72x72.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/i/favicons/android-chrome-96x96.png" beforeDir="false" afterPath="$PROJECT_DIR$/Часть 1/i/favicons/android-chrome-96x96.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/i/favicons/apple-touch-icon-114x114.png" beforeDir="false" afterPath="$PROJECT_DIR$/Часть 1/i/favicons/apple-touch-icon-114x114.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/i/favicons/apple-touch-icon-120x120.png" beforeDir="false" afterPath="$PROJECT_DIR$/Часть 1/i/favicons/apple-touch-icon-120x120.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/i/favicons/apple-touch-icon-144x144.png" beforeDir="false" afterPath="$PROJECT_DIR$/Часть 1/i/favicons/apple-touch-icon-144x144.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/i/favicons/apple-touch-icon-152x152.png" beforeDir="false" afterPath="$PROJECT_DIR$/Часть 1/i/favicons/apple-touch-icon-152x152.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/i/favicons/apple-touch-icon-180x180.png" beforeDir="false" afterPath="$PROJECT_DIR$/Часть 1/i/favicons/apple-touch-icon-180x180.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/i/favicons/apple-touch-icon-57x57.png" beforeDir="false" afterPath="$PROJECT_DIR$/Часть 1/i/favicons/apple-touch-icon-57x57.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/i/favicons/apple-touch-icon-60x60.png" beforeDir="false" afterPath="$PROJECT_DIR$/Часть 1/i/favicons/apple-touch-icon-60x60.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/i/favicons/apple-touch-icon-72x72.png" beforeDir="false" afterPath="$PROJECT_DIR$/Часть 1/i/favicons/apple-touch-icon-72x72.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/i/favicons/apple-touch-icon-76x76.png" beforeDir="false" afterPath="$PROJECT_DIR$/Часть 1/i/favicons/apple-touch-icon-76x76.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/i/favicons/apple-touch-icon-precomposed.png" beforeDir="false" afterPath="$PROJECT_DIR$/Часть 1/i/favicons/apple-touch-icon-precomposed.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/i/favicons/apple-touch-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/Часть 1/i/favicons/apple-touch-icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/i/favicons/browserconfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Часть 1/i/favicons/browserconfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/i/favicons/favicon-16x16.png" beforeDir="false" afterPath="$PROJECT_DIR$/Часть 1/i/favicons/favicon-16x16.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/i/favicons/favicon-32x32.png" beforeDir="false" afterPath="$PROJECT_DIR$/Часть 1/i/favicons/favicon-32x32.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/i/favicons/favicon-96x96.png" beforeDir="false" afterPath="$PROJECT_DIR$/Часть 1/i/favicons/favicon-96x96.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/i/favicons/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/Часть 1/i/favicons/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/i/favicons/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Часть 1/i/favicons/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/i/favicons/mstile-144x144.png" beforeDir="false" afterPath="$PROJECT_DIR$/Часть 1/i/favicons/mstile-144x144.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/i/favicons/mstile-150x150.png" beforeDir="false" afterPath="$PROJECT_DIR$/Часть 1/i/favicons/mstile-150x150.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/i/favicons/mstile-310x150.png" beforeDir="false" afterPath="$PROJECT_DIR$/Часть 1/i/favicons/mstile-310x150.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/i/favicons/mstile-310x310.png" beforeDir="false" afterPath="$PROJECT_DIR$/Часть 1/i/favicons/mstile-310x310.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/i/favicons/mstile-70x70.png" beforeDir="false" afterPath="$PROJECT_DIR$/Часть 1/i/favicons/mstile-70x70.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/i/favicons/safari-pinned-tab.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Часть 1/i/favicons/safari-pinned-tab.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/i/features-sprite.png" beforeDir="false" afterPath="$PROJECT_DIR$/Часть 1/i/features-sprite.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/i/header.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Часть 1/i/header.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/i/hearth-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/Часть 1/i/hearth-icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/i/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/Часть 1/i/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/i/map-pin.png" beforeDir="false" afterPath="$PROJECT_DIR$/Часть 1/i/map-pin.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/i/map-pin2.png" beforeDir="false" afterPath="$PROJECT_DIR$/Часть 1/i/map-pin2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/i/map.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Часть 1/i/map.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/i/mouse-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/Часть 1/i/mouse-icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/i/photo1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Часть 1/i/photo1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/i/photo2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Часть 1/i/photo2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/i/photo3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Часть 1/i/photo3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/i/quotes.png" beforeDir="false" afterPath="$PROJECT_DIR$/Часть 1/i/quotes.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/i/search-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/Часть 1/i/search-icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/i/social-icons.png" beforeDir="false" afterPath="$PROJECT_DIR$/Часть 1/i/social-icons.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/i/validate/false.png" beforeDir="false" afterPath="$PROJECT_DIR$/Часть 1/i/validate/false.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/i/validate/true.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Часть 1/i/validate/true.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Часть 1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/js/counter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/js/custom.js" beforeDir="false" afterPath="$PROJECT_DIR$/Часть 1/js/custom.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/js/icheck.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/js/jquery-1.12.0.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Часть 1/js/jquery-1.12.0.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/js/typed.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/js/waypoints.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/js/wow.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/js/yandex.js" beforeDir="false" afterPath="$PROJECT_DIR$/Часть 1/js/yandex.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,95 +286,103 @@
     <session id="-202764751">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="8" />
-          <entry key="project.open.time.0" value="1" />
+          <entry key="project.closed" value="11" />
+          <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.1" value="4" />
-          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.11" value="2" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.22" value="1" />
-          <entry key="project.opened" value="12" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="css" value="2" />
-          <entry key="html" value="4" />
-          <entry key="js" value="4" />
-          <entry key="less" value="4" />
+          <entry key="css" value="8" />
+          <entry key="html" value="13" />
+          <entry key="js" value="20" />
+          <entry key="less" value="6" />
           <entry key="rnc" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="2" />
-          <entry key="HTML" value="4" />
-          <entry key="JavaScript" value="4" />
-          <entry key="Less" value="4" />
+          <entry key="CSS" value="8" />
+          <entry key="HTML" value="13" />
+          <entry key="JavaScript" value="20" />
+          <entry key="Less" value="6" />
           <entry key="RNG Compact" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="1191" />
-          <entry key="html" value="650" />
-          <entry key="js" value="5075" />
+          <entry key="css" value="1331" />
+          <entry key="html" value="1391" />
+          <entry key="js" value="5992" />
           <entry key="less" value="90" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="1191" />
-          <entry key="HTML" value="650" />
-          <entry key="JavaScript" value="5075" />
+          <entry key="CSS" value="1331" />
+          <entry key="HTML" value="1391" />
+          <entry key="JavaScript" value="5992" />
           <entry key="Less" value="90" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="261">
-              <caret line="368" lean-forward="true" selection-start-line="368" selection-end-line="368" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/css/style.css">
+        <entry file="file://$PROJECT_DIR$/Часть 1/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="269">
-              <caret line="127" column="30" selection-start-line="127" selection-start-column="30" selection-end-line="127" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/js/custom.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="618">
-              <caret line="230" lean-forward="true" selection-start-line="230" selection-end-line="230" />
+            <state relative-caret-position="338">
+              <caret line="215" column="83" lean-forward="true" selection-start-line="215" selection-start-column="83" selection-end-line="215" selection-end-column="83" />
               <folding>
-                <marker date="1551772700232" expanded="true" signature="221:380" ph="..." />
-                <marker date="1551772700232" expanded="true" signature="1047:1109" ph="..." />
-                <marker date="1551772700232" expanded="true" signature="5851:5963" ph="..." />
+                <element signature="n#div#1;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Часть 1/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="502">
+              <caret line="246" column="30" selection-start-line="246" selection-start-column="30" selection-end-line="246" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>nav__item</find>
       <find>nav-co</find>
       <find>search-form</find>
+      <find>post-info__item</find>
+      <find>company</find>
+      <find>post-info__number</find>
+      <find>title</find>
+      <find>steps__item find</find>
+      <find>login-form</find>
+      <find>modal</find>
+      <find>form</find>
+      <find>subscribe</find>
+      <find>testim</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -118,9 +395,29 @@
         <option value="$PROJECT_DIR$/Мой сайт/js/main.js" />
         <option value="$PROJECT_DIR$/Мой сайт/index.html" />
         <option value="$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/css/style.less" />
+        <option value="$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/js/spin.js" />
+        <option value="$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/js/counter.js" />
+        <option value="$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/js/waypoints.js" />
+        <option value="$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/js/wow.js" />
+        <option value="$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/css/animate.min.css" />
+        <option value="$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/js/typed.js" />
+        <option value="$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/js/icheck.js" />
+        <option value="$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/css/polaris/polaris.css" />
         <option value="$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/css/style.css" />
-        <option value="$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/index.html" />
         <option value="$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/js/custom.js" />
+        <option value="$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/js/yandex.js" />
+        <option value="$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/index.html" />
+        <option value="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Сайдбар/sticky/sticky/sticky/js/sticky.js.html" />
+        <option value="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Сайдбар/sticky/sticky/sticky/js/sticky.js" />
+        <option value="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Сайдбар/sticky/sticky/sticky/index.html" />
+        <option value="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Сайдбар/sticky/sticky/sticky/js/custom.js" />
+        <option value="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullpage/fullpage/fullpage/index.html" />
+        <option value="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/index.html" />
+        <option value="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/js/custom.js" />
+        <option value="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/nicescroll_1/index.html" />
+        <option value="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/nicescroll_1/js/custom.js" />
+        <option value="$PROJECT_DIR$/Часть 1/index.html" />
+        <option value="$PROJECT_DIR$/Часть 1/css/style.css" />
       </list>
     </option>
   </component>
@@ -130,7 +427,15 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/examples/module_loaders/browserify-example/package.json" />
+      <path value="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/examples/module_loaders/requirejs-example/package.json" />
+      <path value="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/examples/module_loaders/webpack-example/package.json" />
+      <path value="$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullPage.js-master/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="149" />
     <option name="width" value="1400" />
     <option name="height" value="964" />
@@ -140,6 +445,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -156,39 +462,12 @@
               <item name="JQUERY" type="b2602c69:ProjectViewProjectNode" />
               <item name="JQUERY" type="462c0819:PsiDirectoryNode" />
               <item name="Часть 1" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JQUERY" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JQUERY" type="462c0819:PsiDirectoryNode" />
-              <item name="Часть 1" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson3" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JQUERY" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JQUERY" type="462c0819:PsiDirectoryNode" />
-              <item name="Часть 1" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson3" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson3" type="462c0819:PsiDirectoryNode" />
-              <item name="hosting" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JQUERY" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JQUERY" type="462c0819:PsiDirectoryNode" />
-              <item name="Часть 1" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson3" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson3" type="462c0819:PsiDirectoryNode" />
-              <item name="hosting" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JQUERY" type="b2602c69:ProjectViewProjectNode" />
               <item name="JQUERY" type="462c0819:PsiDirectoryNode" />
               <item name="Часть 1" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson3" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson3" type="462c0819:PsiDirectoryNode" />
-              <item name="hosting" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
               <item name="style.less" type="620a8d5e:NestingTreeNode" />
             </path>
@@ -196,15 +475,20 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="project.propDebugger" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mmit\Desktop\JQUERY\Часть2 (сайдбар и послайдовый скролл)\Послайдовый скролл\fullpage\fullpage\fullpage\js" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -239,18 +523,21 @@
       <workItem from="1551687436363" duration="5013000" />
       <workItem from="1551749139114" duration="5000" />
       <workItem from="1551750137203" duration="5900000" />
-      <workItem from="1551759716532" duration="15548000" />
+      <workItem from="1551759716532" duration="15615000" />
+      <workItem from="1552359021469" duration="191000" />
+      <workItem from="1553649558673" duration="14201000" />
+      <workItem from="1553669132089" duration="7426000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57568000" />
+    <option name="totallyTimeSpent" value="79453000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1020" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11002445" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15403423" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -263,7 +550,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.41169724" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.19724771" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32912844" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -321,29 +608,215 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/js/custom.js">
+    <entry file="file://$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/js/spin.js" />
+    <entry file="file://$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/js/waypoints.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="618">
-          <caret line="230" lean-forward="true" selection-start-line="230" selection-end-line="230" />
+        <state relative-caret-position="1716">
+          <caret line="6" column="8863" selection-start-line="6" selection-start-column="8863" selection-end-line="6" selection-end-column="8863" />
           <folding>
-            <marker date="1551772700232" expanded="true" signature="221:380" ph="..." />
-            <marker date="1551772700232" expanded="true" signature="1047:1109" ph="..." />
-            <marker date="1551772700232" expanded="true" signature="5851:5963" ph="..." />
+            <element signature="n#!!doc" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/js/counter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="7" column="917" lean-forward="true" selection-start-line="7" selection-start-column="917" selection-end-line="7" selection-end-column="917" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/js/wow.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="1" column="8385" selection-start-line="1" selection-start-column="8385" selection-end-line="1" selection-end-column="8385" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/css/animate.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11572">
+          <caret line="10" column="57773" selection-start-line="10" selection-start-column="57773" selection-end-line="10" selection-end-column="57773" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/js/typed.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2310">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/js/icheck.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="473">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="127" column="30" selection-start-line="127" selection-start-column="30" selection-end-line="127" selection-end-column="30" />
+        <state relative-caret-position="499">
+          <caret line="230" column="21" selection-start-line="230" selection-start-column="21" selection-end-line="230" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/css/polaris/polaris.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1298">
+          <caret line="58" column="1" selection-start-line="58" selection-start-column="1" selection-end-line="58" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/js/Validation/jquery.validate.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/js/Validation/valid.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-297" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/js/yandex.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="564">
+          <caret line="48" column="11" selection-start-line="48" selection-start-column="11" selection-end-line="48" selection-end-column="11" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/sticky/sticky/sticky/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/sticky/sticky/sticky/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" selection-start-line="11" selection-end-line="41" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/js/custom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1290">
+          <caret line="292" column="7" selection-start-line="292" selection-start-column="7" selection-end-line="292" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Часть 1/lesson3/lesson3/hosting/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="368" lean-forward="true" selection-start-line="368" selection-end-line="368" />
+        <state relative-caret-position="467">
+          <caret line="431" lean-forward="true" selection-start-line="431" selection-end-line="431" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Сайдбар/sticky/sticky/sticky/js/sticky.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="894">
+          <caret line="288" selection-start-line="288" selection-end-line="288" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Сайдбар/sticky/sticky/sticky/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="586">
+          <caret line="46" column="25" selection-start-line="46" selection-start-column="25" selection-end-line="46" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Сайдбар/sticky/sticky/sticky/js/custom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullpage/fullpage/fullpage/js/custom.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullpage/fullpage/fullpage/js/jquery-3.3.1.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullpage/fullpage/fullpage/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="33" column="7" lean-forward="true" selection-start-line="33" selection-start-column="7" selection-end-line="33" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/fullpage/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/css/style.less">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/js/custom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/Послайдовый скролл/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/nicescroll_1/js/custom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Часть2 (сайдбар и послайдовый скролл)/nicescroll_1/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="586">
+          <caret line="86" column="70" selection-start-line="86" selection-start-column="70" selection-end-line="86" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Часть 1/css/style.less">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Часть 1/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="215" column="83" lean-forward="true" selection-start-line="215" selection-start-column="83" selection-end-line="215" selection-end-column="83" />
+          <folding>
+            <element signature="n#div#1;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Часть 1/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="502">
+          <caret line="246" column="30" selection-start-line="246" selection-start-column="30" selection-end-line="246" selection-end-column="30" />
         </state>
       </provider>
     </entry>
